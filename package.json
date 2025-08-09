@@ -11,7 +11,12 @@
   "dependencies": {
     "@react-router/node": "^7.7.1",
     "@react-router/serve": "^7.7.1",
+    "@tailwindcss/forms": "^0.5.10",
+    "autoprefixer": "^10.4.21",
+    "html2canvas": "^1.4.1",
     "isbot": "^5.1.27",
+    "jspdf": "^3.0.1",
+    "postcss": "^8.5.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router": "^7.7.1"
@@ -22,7 +27,7 @@
     "@types/node": "^20",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-    "tailwindcss": "^4.1.4",
+    "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3",
     "vite": "^6.3.3",
     "vite-tsconfig-paths": "^5.1.4"
